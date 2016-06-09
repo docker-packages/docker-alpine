@@ -16,6 +16,7 @@ This image features:
 ## Versions
 
 - `2.0.0`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-ui-v2.0.0/alpine-consul-ui/Dockerfile)
+- `1.0.5` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-ui-v1.0.5/alpine-consul-ui/Dockerfile)
 - `1.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-ui-v1.0.0/alpine-consul-ui/Dockerfile)
 
 [See VERSIONS.md for image contents.](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-ui/VERSIONS.md)
