@@ -1,4 +1,9 @@
 {
     "data_dir": "/data/consul",
-    "disable_update_check": true
+    "ui_dir": "/ui",
+    "addresses": {
+        "http": "0.0.0.0"
+    },
+    "disable_update_check": true,
+    "leave_on_terminate": true
 }
