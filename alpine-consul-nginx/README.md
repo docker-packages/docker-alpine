@@ -16,7 +16,8 @@ This image features:
 
 ## Versions
 
-- `3.0.0`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.0.0/alpine-consul-nginx/Dockerfile)
+- `3.0.1`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.0.1/alpine-consul-nginx/Dockerfile)
+- `3.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v3.0.0/alpine-consul-nginx/Dockerfile)
 - `2.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v2.0.0/alpine-consul-nginx/Dockerfile)
 - `1.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-consul-nginx-v1.0.0/alpine-consul-nginx/Dockerfile)
 
@@ -26,7 +27,7 @@ This image features:
 
 To use this image include `FROM smebberson/alpine-consul-nginx` at the top of your `Dockerfile`, or simply `docker run -p 80:80 -p 443:443 --name nginx smebberson/alpine-consul-nginx`.
 
-This container has been setup to automatically connect to a Consul cluster, created with a service name of `consul`. [Read more about it here](https://github.com/smebberson/docker-alpine/tree/alpine-consul-ui-upgrades/alpine-consul).
+This container has been setup to automatically connect to a Consul cluster, created with a service name of `consul`. [Read more about it here](https://github.com/smebberson/docker-alpine/tree/master//alpine-consul).
 
 ## Customisation
 
