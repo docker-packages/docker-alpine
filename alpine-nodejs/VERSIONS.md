@@ -4,9 +4,113 @@ This file contains all software versions, that correspond to a version of this i
 
 ## Latest
 
-Same as v6.0.0.
+Same as v6.7.0.
 
 Usage: `smebberson/alpine-nodejs` or `smebberson/alpine-nodejs:latest`.
+
+## v6.7.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.10.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.7.0`.
+
+## v6.6.5
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.9.5][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.6.5`.
+
+## v6.6.4
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.9.4][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.6.4`.
+
+## v6.6.3
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.9.3][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.6.3`.
+
+## v6.6.2
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.9.2][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.6.2`.
+
+## v6.6.1
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.9.1][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.6.1`.
+
+## v6.6.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.9.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.6.0`.
+
+## v6.5.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.8.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.5.0`.
+
+## v6.4.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.7.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.4.0`.
+
+## v6.3.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.6.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.3.0`.
+
+## v6.2.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.5.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.2.0`.
+
+## v6.1.0
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.4.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-nodejs:6.1.0`.
+
+## v6.0.1
+
+- [smebberson/alpine-base: v3.0.0][smebbersonalpinebase300]
+- [Node.js: v6.3.1][nodejs]
+- [npm: v3.10.5][npm]
+
+Usage: `smebberson/alpine-nodejs:6.0.1`.
 
 ## v6.0.0
 

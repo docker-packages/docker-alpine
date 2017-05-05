@@ -204,7 +204,7 @@ This image adds [Consul][consul].
 
 If you want to create a Docker image to run as a Consul agent in server mode (i.e. part of a cluster) start with this image.
 
-Latest version is `3.1.0`, or `latest`.
+Latest version is `3.1.1`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul/VERSIONS.md)
@@ -215,7 +215,7 @@ This image inherits from `alpine-consul` and is designed as a base image for oth
 
 If you want to create a Docker image to advertise a service in Consul start with this image.
 
-Latest version is `4.1.0`, or `latest`.
+Latest version is `4.1.1`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-base/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-base/VERSIONS.md)
@@ -235,7 +235,7 @@ Latest version is `2.0.0`, or `latest`.
 
 This image is designed to run a Node.js application within the context of service discovery (via Consul).
 
-Latest version is `5.3.0`, or `latest`.
+Latest version is `5.10.1`, or `latest`.
 
 - [README.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/README.md)
 - [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/master/alpine-consul-nodejs/VERSIONS.md)
@@ -300,10 +300,10 @@ Latest version is `4.2.2`, or `latest`.
 
 This includes Node.js.
 
-Latest version is `6.0.0`, or `latest`.
+Latest version is `6.7.0`, or `latest`.
 
-- [README.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.0/alpine-nodejs/README.md)
-- [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.0/alpine-nodejs/VERSIONS.md)
+- [README.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.7.0/alpine-nodejs/README.md)
+- [VERSIONS.md](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.7.0/alpine-nodejs/VERSIONS.md)
 
 ### alpine-rabbitmq
 

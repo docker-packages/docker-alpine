@@ -6,9 +6,107 @@ Looking for a particular version of Node.js? [See NODEJS.md for more information
 
 ## Latest
 
-Same as v5.3.0.
+Same as v5.10.1.
 
 Usage: `smebberson/alpine-consul-nodejs` or `smebberson/alpine-consul-nodejs:latest`.
+
+## v5.10.1
+
+- [Node.js: v6.10.1][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.10.1`.
+
+## v5.10.0
+
+- [Node.js: v6.10.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.10.0`.
+
+## v5.9.5
+
+- [Node.js: v6.9.5][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.9.5`.
+
+## v5.9.4
+
+- [Node.js: v6.9.4][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.9.4`.
+
+## v5.9.3
+
+- [Node.js: v6.9.3][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.9.3`.
+
+## v5.9.2
+
+- [Node.js: v6.9.2][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.9.2`.
+
+## v5.9.1
+
+- [Node.js: v6.9.1][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.9.1`.
+
+## v5.9.0
+
+- [Node.js: v6.9.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.9.0`.
+
+## v5.8.0
+
+- [Node.js: v6.8.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.8.0`.
+
+## v5.7.0
+
+- [Node.js: v6.7.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.7.0`.
+
+## v5.6.0
+
+- [Node.js: v6.6.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.6.0`.
+
+## v5.5.0
+
+- [Node.js: v6.5.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.5.0`.
+
+## v5.4.0
+
+- [Node.js: v6.4.0][nodejs]
+- [npm: v3.10.10][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.4.0`.
+
+## v5.3.1
+
+- [Node.js: v6.3.1][nodejs]
+- [npm: v3.10.9][npm]
+
+Usage: `smebberson/alpine-consul-nodejs:5.3.1`.
 
 ## v5.3.0
 

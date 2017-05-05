@@ -13,7 +13,20 @@ This image features:
 
 ## Versions
 
-- `6.0.0`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.0/alpine-nodejs/Dockerfile)
+- `6.7.0`, `latest` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.7.0/alpine-nodejs/Dockerfile)
+- `6.6.5` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.6.5/alpine-nodejs/Dockerfile)
+- `6.6.4` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.6.4/alpine-nodejs/Dockerfile)
+- `6.6.3` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.6.3/alpine-nodejs/Dockerfile)
+- `6.6.2` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.6.2/alpine-nodejs/Dockerfile)
+- `6.6.1` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.6.1/alpine-nodejs/Dockerfile)
+- `6.6.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.6.0/alpine-nodejs/Dockerfile)
+- `6.5.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.5.0/alpine-nodejs/Dockerfile)
+- `6.4.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.4.0/alpine-nodejs/Dockerfile)
+- `6.3.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.3.0/alpine-nodejs/Dockerfile)
+- `6.2.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.2.0/alpine-nodejs/Dockerfile)
+- `6.1.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.1.0/alpine-nodejs/Dockerfile)
+- `6.0.1` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.1/alpine-nodejs/Dockerfile)
+- `6.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v6.0.0/alpine-nodejs/Dockerfile)
 - `5.2.2` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.2/alpine-nodejs/Dockerfile)
 - `5.2.1` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.1/alpine-nodejs/Dockerfile)
 - `5.2.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v5.2.0/alpine-nodejs/Dockerfile)
@@ -27,7 +40,7 @@ This image features:
 - `2.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v2.0.0/alpine-nodejs/Dockerfile)
 - `1.0.0` [(Dockerfile)](https://github.com/smebberson/docker-alpine/blob/alpine-nodejs-v1.0.0/alpine-nodejs/Dockerfile)
 
-[See VERSIONS.md for image contents.](VERSIONS.md)  
+[See VERSIONS.md for image contents.](VERSIONS.md)
 [See NODEJS.md to find specific Node.js versions.](NODEJS.md)
 
 ## Usage

@@ -5,6 +5,119 @@ Due to the nature of versioning and the fact this repository houses multiple Doc
 
 Each release records it's own specific changes in a VERSIONS.md file.
 
+## 2017.03.31
+
+- `alpine-nodejs`: upgraded to Node.js `v6.10.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.10.1`.
+
+### Releases
+
+- [Release `v5.10.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.10.0/alpine-consul-nodejs)
+- [Release `v5.10.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.10.1/alpine-consul-nodejs)
+
+## 2017.03.30
+
+- `alpine-nodejs`: upgraded to Node.js `v6.9.2`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.3`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.4`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.5`.
+
+### Releases
+
+- [Release `v5.9.2` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.2/alpine-consul-nodejs)
+- [Release `v5.9.3` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.3/alpine-consul-nodejs)
+- [Release `v5.9.4` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.4/alpine-consul-nodejs)
+- [Release `v5.9.5` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.5/alpine-consul-nodejs)
+
+## 2017.03.29
+
+- `alpine-nodejs`: upgraded to Node.js `v6.9.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.1`.
+
+### Releases
+
+- [Release `v5.9.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.0/alpine-consul-nodejs)
+- [Release `v5.9.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.9.1/alpine-consul-nodejs)
+
+## 2017.03.23
+
+- `alpine-nodejs`: upgraded to Node.js `v6.4.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.5.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.6.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.7.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.8.0`.
+
+### Releases
+
+- [Release `v5.4.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.4.0/alpine-consul-nodejs)
+- [Release `v5.5.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.5.0/alpine-consul-nodejs)
+- [Release `v5.6.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.6.0/alpine-consul-nodejs)
+- [Release `v5.7.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.7.0/alpine-consul-nodejs)
+- [Release `v5.8.0` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.8.0/alpine-consul-nodejs)
+
+## 2017.03.22
+
+- `alpine-nodejs`: upgraded to Node.js `v6.10.0`.
+
+### Releases
+
+- [Release `v6.7.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.7.0/alpine-nodejs)
+
+## 2017.03.21
+
+- `alpine-nodejs`: upgraded to Node.js `v6.9.2`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.3`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.4`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.5`.
+
+### Releases
+
+- [Release `v6.6.2` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.2/alpine-nodejs)
+- [Release `v6.6.3` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.3/alpine-nodejs)
+- [Release `v6.6.4` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.4/alpine-nodejs)
+- [Release `v6.6.5` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.5/alpine-nodejs)
+
+## 2017.03.20
+
+- `alpine-nodejs`: upgraded to Node.js `v6.7.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.8.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.9.1`.
+
+### Releases
+
+- [Release `v6.4.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.4.0/alpine-nodejs)
+- [Release `v6.5.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.5.0/alpine-nodejs)
+- [Release `v6.6.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.0/alpine-nodejs)
+- [Release `v6.6.1` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.6.1/alpine-nodejs)
+
+## 2017.03.17
+
+- `alpine-nodejs`: upgraded to Node.js `v6.4.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.5.0`.
+- `alpine-nodejs`: upgraded to Node.js `v6.6.0`.
+
+### Releases
+
+- [Release `v6.1.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.1.0/alpine-nodejs)
+- [Release `v6.2.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.2.0/alpine-nodejs)
+- [Release `v6.3.0` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.3.0/alpine-nodejs)
+
+## 2016.11.12
+
+- `alpine-consul-nodejs`: upgraded to Node.js `v6.3.1`.
+- `alpine-nodejs`: upgraded to Node.js `v6.3.1`.
+- `alpine-consul`: upgraded to Consul `v0.7.1`.
+- `alpine-consul`: go-dnsmasq is now run as the go-dnsmasq user.
+- `alpine-consul-base`: now inherits from `alpine-consul:3.1.1`.
+
+### Releases
+
+- [Release `v5.3.1` of `alpine-consul-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-nodejs-v5.3.1/alpine-consul-nodejs)
+- [Release `v6.0.1` of `alpine-nodejs`](https://github.com/smebberson/docker-alpine/tree/alpine-nodejs-v6.0.1/alpine-nodejs)
+- [Release `v3.1.1` of `alpine-consul`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-v3.1.1/alpine-consul)
+- [Release `v4.1.1` of `alpine-consul-base`](https://github.com/smebberson/docker-alpine/tree/alpine-consul-base-v4.1.1/alpine-consul-base)
+
 ## 2016.10.30
 
 - `alpine-consul-redis`: upgraded to `alpine-consul-base:4.1.0`.
